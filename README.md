@@ -1,7 +1,7 @@
 # Sheridan-Courses
 The goal of the application is to improve the user-experience and 
 
-#Wireframe
+# Wireframe
 ![Sheridan-Courses](https://user-images.githubusercontent.com/60274691/156081763-6dd43951-f64a-44e1-908e-bf1ebe7c5ad2.png)
 
 # Newly added/future features:
