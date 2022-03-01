@@ -1,5 +1,5 @@
 # Sheridan-Courses
-The goal of the application is to improve the user-experience and 
+The goal of the application is to improve the user-experience of both virtual and in-person courses and by doing so provide a more inviting and friendly user-interface for Sheridan students and to reduce the learning-curve of new users as much as possible.
 
 # Wireframe
 ![Sheridan-Courses](https://user-images.githubusercontent.com/60274691/156081763-6dd43951-f64a-44e1-908e-bf1ebe7c5ad2.png)
