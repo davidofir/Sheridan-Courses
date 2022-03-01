@@ -1,7 +1,10 @@
 # Sheridan-Courses
 The goal of the application is to improve the user-experience of both virtual and in-person courses and by doing so provide a more inviting and friendly user-interface for Sheridan students and to reduce the learning-curve of new users as much as possible.
 
-# Wireframe
+# First Prototype:
+![FirstPrototype](https://user-images.githubusercontent.com/60274691/156085670-c3fe34e1-be5d-4915-9356-c821d27ae25d.png)
+
+# Second Prototype:
 ![Sheridan-Courses](https://user-images.githubusercontent.com/60274691/156081763-6dd43951-f64a-44e1-908e-bf1ebe7c5ad2.png)
 
 # Newly added/future features:
