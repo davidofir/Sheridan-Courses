@@ -6,6 +6,8 @@ The goal of the application is to improve the user-experience of both virtual an
 
 # Second Prototype:
 ![Sheridan-Courses](https://user-images.githubusercontent.com/60274691/156081763-6dd43951-f64a-44e1-908e-bf1ebe7c5ad2.png)
+# Third Prototype
+![3rd prototype](https://user-images.githubusercontent.com/60274691/160257222-73b4bddf-f8f2-448a-a53f-efbb28f71de4.png)
 
 # Newly added/future features:
 1. Display course room number
