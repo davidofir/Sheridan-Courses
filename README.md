@@ -16,5 +16,9 @@ The goal of the application is to improve the user-experience of both virtual an
 4. Smartwatch integration
 5. Filter students based on courses before creating a new chat with students to more easily know which students share which courses with you
 
+2nd prototype:
 Figma Link: https://www.figma.com/file/lbuki53vdJPykXnogelyyb/Sheridan-Courses-App-2nd-prototype
 Demo Video: https://www.youtube.com/watch?v=JpxSMCJDFXA
+
+3rd prototype:
+Figma Link: https://www.figma.com/file/Qn9aKIka3Sbtbs5ZjDWNnI/Sheridan-Courses-App-3rd-prototype?node-id=0%3A1
