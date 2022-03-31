@@ -14,5 +14,7 @@ The goal of the application is to improve the user-experience of both virtual an
 5. Filter students based on courses before creating a new chat with students to more easily know which students share which courses with you
 
 2nd prototype:
+
 Figma Link: https://www.figma.com/file/lbuki53vdJPykXnogelyyb/Sheridan-Courses-App-2nd-prototype
+
 Demo Video: https://www.youtube.com/watch?v=JpxSMCJDFXA
