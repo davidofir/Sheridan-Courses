@@ -1,4 +1,4 @@
-# Tabella
+# Sheridan Courses
 The goal of the application is to improve the user-experience of both virtual and in-person courses and by doing so provide a more inviting and friendly user-interface for Sheridan students and to reduce the learning-curve of new users as much as possible.
 
 # First Prototype:
